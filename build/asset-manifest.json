@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/advance-election-system-react-js/build/static/css/main.f473e882.css",
+    "main.js": "/advance-election-system-react-js/build/static/js/main.1ae36d45.js",
+    "static/media/bg.gif": "/advance-election-system-react-js/build/static/media/bg.3e36da8b6cc0506d4e5a.gif",
+    "static/media/logo512.png": "/advance-election-system-react-js/build/static/media/logo512.b6939fcd1a1d78545c91.png",
+    "static/media/check.png": "/advance-election-system-react-js/build/static/media/check.512010bb49b3fb442770.png",
+    "static/media/logo192.png": "/advance-election-system-react-js/build/static/media/logo192.7cdcef915950b134977a.png",
+    "index.html": "/advance-election-system-react-js/build/index.html",
+    "main.f473e882.css.map": "/advance-election-system-react-js/build/static/css/main.f473e882.css.map",
+    "main.1ae36d45.js.map": "/advance-election-system-react-js/build/static/js/main.1ae36d45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f473e882.css",
+    "static/js/main.1ae36d45.js"
+  ]
+}

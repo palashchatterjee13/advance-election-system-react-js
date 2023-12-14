@@ -1,0 +1,247 @@
+html {
+    overflow-x: hidden;
+}
+img.d-inline-block.align-text-top {
+    display: block;
+    width: 45px;
+    height: 45px;
+    margin-right: 12px;
+}
+a.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+}
+.navbar-toggler:focus {
+    color: rgb(53 172 91);
+}
+.navbar-toggler:focus-visible {
+    outline: none;
+}
+body {
+    color: #616161;
+}
+/* New Election page*/
+img.appLogo {
+    width: 200px;
+    height: 200px;
+}
+.logoWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h3.appInfo {
+    display: block;
+    margin-top: 20px;
+    width: 60%;
+    font-size: 20px;
+    text-align: center;
+    left: 20%;
+    position: relative;
+    color: #616161;
+}
+.spacer {
+    display: block;
+    position: relative;
+    height: 150px;
+}
+.listPage {
+    text-align: center;
+}
+.optionsMenu {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+ul.list-group {
+    display: block;
+    position: relative;
+    width: 80%;
+    left: 10%;
+    margin-top: 20px;
+    text-align: left;
+}
+li.list-group-item,
+i {
+    color: inherit;
+}
+.icb {
+    color: white;
+    zoom: 70%;
+    float: right;
+    margin-right: 5px;
+    margin-top: 9px;
+}
+button.btn.icb.btn-danger {
+    background: red;
+}
+.input-group {
+  position: relative;
+  margin-bottom: 25px;
+  width: 80%;
+  left: 10%;
+}
+span.nav-link.active {
+    text-decoration: #2e3a34 underline;
+    color: #2e3a34;
+}
+span.nav-link {
+    cursor: pointer;
+}
+.nocan {
+    width: 70%;
+    left: 15%;
+    position: relative;
+}
+input#exampleInputEmail1 {
+    width: 60%;
+    display: inline-block;
+    position: relative;
+}
+img.d-inline-block.align-text-top {
+    margin-top: -8px;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.noOutcome {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 23px;
+    height: 85%;
+    position: absolute;
+}
+input.ins {
+    width: 80%;
+    left: 10%;
+    position: relative;
+    margin-top: 7px;
+}
+input.ins.insx {
+    width: 80px;
+    height: 50px;
+}
+.electionHeading {
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.voteButton {
+    display: inline-block;
+    width: 15%;
+    min-width: 150px;
+    position: relative;
+    color: white;
+    background: red;
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+.electionPlane {
+    text-align: center;
+    /* cursor: none; */
+}
+.electionOptions {
+    display: block;
+    position: fixed;
+    margin-top: 50px;
+    line-height: 30px;
+    border: 1px solid #cacaca;
+    border-radius: 15px;
+    width: 60%;
+    left: 20%;
+    padding-top: 25px;
+    font-size: 18px;
+    bottom: 0;
+    background: rgb(255 255 255 / 48%);
+    padding-bottom: 25px;
+    backdrop-filter: blur(25px);
+}
+button.btn.btn-danger.endele {
+    zoom: 90%;
+}
+.spacerx {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 175px;
+    bottom: 0;
+}
+img.success {
+    display: block;
+    position: relative;
+    text-align: center;
+    width: 130px;
+}
+.imgcent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+.bgsc {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(bg.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.125;
+    z-index: -1;
+    filter: hue-rotate(345deg);
+}
+h4 {
+    text-align: center;
+}
+table.table {
+    width: 80%;
+    left: 10%;
+    background: #ffffff99;
+    position: relative;
+    margin-top: 25px;
+    border-radius: 10px;
+    overflow: hidden;
+    backdrop-filter: blur(25px);
+}
+.credits {
+    display: block;
+    text-align: center;
+}
+nav.navbar.bg-light, span#basic-addon3 {
+    background: hsl(210deg 16% 93% / 50%) !important;
+    backdrop-filter: blur(25px);
+}
+.form-check.form-switch {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 80%;
+    left: 10%;
+    position: relative;
+}
+label.form-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    position: relative;
+    width: 100%;
+    margin-bottom: -10px;
+}
+li.list-group-item {
+    background: #ffffff99;
+    backdrop-filter: blur(25px);
+}
